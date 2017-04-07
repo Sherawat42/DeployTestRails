@@ -48,6 +48,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   # gem 'sqlite3', '1.3.12'
   gem 'byebug',  '9.0.0', platform: :mri
+  gem 'sqlite3'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
